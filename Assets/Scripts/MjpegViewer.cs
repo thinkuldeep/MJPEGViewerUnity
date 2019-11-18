@@ -1,6 +1,5 @@
 using UnityEngine;
 using System;
-using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 public class MjpegViewer : MonoBehaviour
